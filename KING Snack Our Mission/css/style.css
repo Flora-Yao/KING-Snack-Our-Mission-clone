@@ -1,0 +1,135 @@
+header {
+    background: #000;
+    height: 56px;
+    position: relative;
+    z-index: 2;
+}
+header ul{
+	display:block;
+	font-weight: normal;
+	text-align: right;
+	list-style-type: none;
+	margin-right: 15px;
+}
+.head-products-container {
+    width: 1045px;
+    position: absolute;
+    top: 0;
+    margin: 6px;
+    padding: 0px;
+}
+.head-products-container ul{
+	list-style-type: none;	
+}
+.head-products-container ul li{
+	margin-left: 6px;
+	display: inline;
+	list-style-type: none; 
+}
+.title {
+    display: block;
+    margin:50px;
+    max-width: 720px;
+    text-align: center;
+    width: 100%;
+    font-weight: 450px;
+}
+.title span{
+	color: black;
+}
+
+.ingredients-focus {
+    min-height: 100%;
+    padding-top: 77px;
+    padding-bottom: 108px;
+    }
+.main-container .std .section-gray {
+    display: inline-block;
+    width: 100%;
+    padding: 105px 0 0;
+    position: relative;
+    z-index: 2;
+}
+.row {
+    padding-bottom: 85px;
+    width: 100%;
+    font-weight: 300px;
+}
+.row h1{
+	font-size: 70px;
+}
+
+.section-tab ul{
+     margin-bottom: 5px;
+}
+.section-tab ul li{
+	text-align: center;
+	list-style-type: none;
+	color: black;
+
+}
+.content-tab {
+    color: #fff;
+    margin: 0px;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    background-color: #61b4e4;
+    font-weight: 750px;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.section {
+    padding-bottom: 110px;
+    padding-top: 111px;
+    background-color: white;
+    }
+ .section .container-narrow {
+    padding-bottom: 56px;
+    text-align: center;
+    color: black;    
+}
+.section .container-narrow h1{
+	font-size: 60px;
+}
+
+.section ul{
+	list-style-type: none;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	display: inline-block;
+	
+}
+.section ul li img{
+	float: left;
+	margin-right: 50px;
+}
+.section ul li p{
+	text-align: right;
+}
+.section-black{
+	background-color: #F2F2F2;
+	font-weight: 450px;
+	display: block;
+	padding-top: 110px;
+	padding-bottom: 110px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	display: block;
+
+}
+.page-bottom ul{
+    list-style-type: none;
+    text-align: center;
+}
+.page-bottom ul li{
+	margin: 6px;
+	color: white;
+}
